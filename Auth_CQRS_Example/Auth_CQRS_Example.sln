@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth_CQRS_Example", "Auth_CQRS_Example\Auth_CQRS_Example.csproj", "{5CA05895-1195-493A-B301-A305B11F9DEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CA05895-1195-493A-B301-A305B11F9DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA05895-1195-493A-B301-A305B11F9DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA05895-1195-493A-B301-A305B11F9DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA05895-1195-493A-B301-A305B11F9DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5E779AA-D9FE-469C-BC04-3E5E59554EA4}
+	EndGlobalSection
+EndGlobal
